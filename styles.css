@@ -1,0 +1,47 @@
+body {
+    padding: 0 3rem;
+    font-family: "Goudy Bookletter 1911", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size:larger;
+}
+
+.header {
+    background-image: url("./img/portadaCuentoCaperucita.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:bottom;
+    height: 15rem;
+    border-radius: 1rem;
+    margin-bottom: 1rem;
+}
+
+.header-title{
+    color: white;
+    padding: 2rem 0 0 2rem;
+    font-family: "Momo Trust Display", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    
+}
+
+.tale-section{
+    padding: 0 10rem;
+}
+
+.tale-image-right, .tale-image-left{
+    display: flex;
+}
+
+.little-red-with-her-mother-img, .wolf-disguised-img, .hunter-saving-little-red-img, .little-red-happy-ending-img{
+    width: 100%;
+    object-fit: contain;
+    max-width: 300px;
+    margin: 0 3rem;
+    border-radius: 10px;
+}
+footer {
+    font-family: "Momo Trust Display", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
