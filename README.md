@@ -16,7 +16,7 @@ Durante el desarrollo aparecieron algunos retos típicos cuando se empieza con C
 - Insertar imágenes entre el texto sin romper el diseño.
 - Mantener una estética “comic” sin usar librerías externas.
 
-## 🎓 Lo Que Aprendí
+##  Lo Que Aprendí
 Este proyecto me permitió mejorar en:
 
 - El uso de **unidades relativas** como `rem`.
