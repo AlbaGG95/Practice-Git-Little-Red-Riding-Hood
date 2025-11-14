@@ -1,44 +1,29 @@
--Resumen del proyecto:
+# Proyecto: Cuento con Estilo de Cómic (HTML + CSS Básico)
 
-Este proyecto consiste en mostrar un cuento con estilo de cómic, usando HTML y CSS muy básicos. La idea principal fue:
+##  Resumen del Proyecto
+Este proyecto consiste en presentar un cuento con un estilo visual inspirado en un cómic, utilizando únicamente HTML y CSS básicos.  
+Los objetivos principales fueron:
 
-Crear secciones del cuento con espacios entre párrafos.
+- Crear secciones del cuento con buena separación entre párrafos.
+- Insertar imágenes entre el texto para complementar la narrativa.
+- Estilizar el contenido para darle un aspecto simple pero funcional de “cómic”.
 
-Insertar imágenes entre los párrafos para apoyar la narrativa.
+##  Dificultades Encontradas
+Durante el desarrollo aparecieron algunos retos típicos cuando se empieza con CSS:
 
-Estilizar el texto para que parezca un cómic sencillo.
+- Comprender la diferencia entre **padding** y **margin**.
+- Separar párrafos sin que todo quedara comprimido.
+- Insertar imágenes entre el texto sin romper el diseño.
+- Mantener una estética “comic” sin usar librerías externas.
 
+## 🎓 Lo Que Aprendí
+Este proyecto me permitió mejorar en:
 
+- El uso de **unidades relativas** como `rem`.
+- Cómo estructurar el HTML para que luego sea fácil de estilizar.
+- Crear estilos simples que aun así producen buenos resultados.
+- Aceptar que al principio el CSS cuesta: es normal, y se mejora practicando.
 
-
-
--Dificultades que me encontré:
-
-Entender cómo funciona el padding y el margin.
-
-Separar los párrafos sin que todo quedara pegado.
-
-Insertar imágenes entre texto sin romper la maquetación.
-
-Mantener una estética "tipo cómic" sin usar librerías externas.
-
-
-
-
-
-
-
--Lo que aprendí:
-
-A usar unidades como rem.
-
-Cómo estructurar el HTML para que sea fácil de estilizar.
-
-Que los estilos simples pueden dar resultados muy buenos.
-
-Que es normal que cueste al principio: el CSS es un arte.
-
-
-
-
-Este proyecto me ha costado, pero me ha ayudado a entender mejor cómo espaciar elementos, cómo maquetar texto con imágenes y cómo ajustar estilos sin complicarme. Es un buen avance dentro del bootcamp.
+##  Conclusión
+Aunque este proyecto me dio guerra, me ayudó mucho a entender cómo espaciar elementos, cómo combinar texto e imágenes y cómo ajustar estilos sin sobrecomplicarlo.  
+Es un paso sólido dentro del bootcamp y un buen ejercicio de maquetación básica.
